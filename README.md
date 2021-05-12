@@ -12,6 +12,4 @@ The goal for performing this experiments is to improve the images for humanvisua
 Multiple experiments have been conducted to explore the impact of combinations ofproperties of images on accuracy of classification.
 
 Software Discription:
-This program was coded as an Python programming language version Python 3.7.0. 
-Used Spyder IDE and Jupyter Notebook which is an open source software for above experiments. 
-It uses the Ionosphere, glass and car datasets taken from the UCI Machine Learning Repository\cite{asuncion2007uci}. 
+This program was coded as an Python Programming Language version Python 3.7.0. Downloaded the python from anaconda distribution and installed many libraries in anaconda Prompt. Used Spyder IDE and Jupyter Notebook which is an open source software for above experiments. The code that trains and tests a machine learning model with Keras backed by Tensor-Flow in Python. The code is written in python and will be tested in CPU and GPU using the Knuth machine. Keras is an open source neural network library that is written in python.Here the keras will work over the Tensor Flow. Tensor Flow is the back end engine which is recommended usually among the other back end engines.The experiments run on Knuth High Performance Computer machine by using the necessary commands. It uses the Ionosphere, glass and car datasets taken from the UCI Machine Learning Repository\cite{asuncion2007uci}. The Python code can be made available on GITHUB.
